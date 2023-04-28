@@ -1,6 +1,6 @@
 Config = {}
 
-Config.List = true
+Config.List = true -- true for register providing list of nearby players/  false to manually enter server id for payment
 -- DEBUG CONFIGS --
 Config.Debug = false -- Client / Server Debug Prints
 Config.DebugPoly = false -- Debug Polyzones

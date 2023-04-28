@@ -1,9 +1,11 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Redline Studios'
-description 'rs-business | A template for creating businesses'
-version '1.0.0'
+author 'Redline Studios w/ modifications by Quake'
+description 'business template based heavily from red lines business template'
+version '1.1.0'
+
+
 
 shared_scripts { 'shared/*.lua' }
 client_scripts {

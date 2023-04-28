@@ -1,8 +1,5 @@
-![Redline Studios Banner](https://i.imgur.com/VFEXnGd.png)
-# Redline Studios Discord:
-https://discord.gg/RCU9XEvnsE
 
-# rs-business
+# 55-business
 Simple script for creating any business
 
 # Features:
@@ -38,5 +35,6 @@ Simple script for creating any business
 
 #### Credits:
 **Original v1.0 Write:** xThrasherrr#6666
+**Code fixes and optimation 1.1** Quake
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thrasherrr)
+

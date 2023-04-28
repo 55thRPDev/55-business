@@ -2,6 +2,8 @@
 # 55-business
 Simple script for creating any business
 
+this default template is setup for beanmachine using the gabz mlo
+
 # Features:
 - Set all blip info from the config
 - Set qb-target zones from config
